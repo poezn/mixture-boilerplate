@@ -5,5 +5,7 @@
   "templateDefaultPage": "index",
   "preprocessorLocations": "css",
   "projectDescription": "",
-  "projectName": ""
+  "projectName": "",
+  "ignoreDir": "env,node_modules",
+  "optimiseSVG": false
 }
