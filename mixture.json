@@ -3,9 +3,17 @@
   "type": "simple",
   "simpleModeFileTypes": ".js,.html,.svg",
   "templateDefaultPage": "index",
-  "preprocessorLocations": "css",
+  "preprocessorLocations": [
+  	"css", "js"
+  ],
+  "ignoreDir": [
+    "node_modules",
+    "scripts",
+    "source-data",
+    "tmp",
+    "dist"
+  ],
   "projectDescription": "",
   "projectName": "",
-  "ignoreDir": "env,node_modules",
   "optimiseSVG": false
 }

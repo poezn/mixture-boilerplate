@@ -1,4 +1,8 @@
 .DS_Store
-css/custom.css
-css/styles.css
-css/styles.min.css
+js/*.min.js
+js/src/*.min.js
+css/*.min.css
+*.pyc
+bower_components/
+env/
+node_modules
